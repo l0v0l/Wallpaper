@@ -2,10 +2,7 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "textures/1.png",
-        "textures/default-costume.png",
-        "textures/school-costume.png",
-        "textures/pajamas-costume.png"
+        "textures/1.png"
     ],
     "layout":{
         "center_x":0.0,
@@ -40,12 +37,12 @@
             {"file":"motions/Touch Dere6.mtn"}
         ],
         "tap_body":[
-            {"file":"motions/Touch1.mtn"},
             {"file":"motions/Touch2.mtn"},
             {"file":"motions/Touch3.mtn"},
             {"file":"motions/Touch4.mtn"},
             {"file":"motions/Touch5.mtn"},
-            {"file":"motions/Touch6.mtn"}
+            {"file":"motions/Touch6.mtn"},
+            {"file":"motions/Sukebei1.mtn"}
         ],
         "":[
             {"file":"motions/Breath1.mtn"},
